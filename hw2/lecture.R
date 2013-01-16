@@ -1,0 +1,5 @@
+x<-c("a", "b", "c", "d")
+
+for (i in x) {
+  print(i)
+}
